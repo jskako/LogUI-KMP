@@ -1,0 +1,16 @@
+PODS:
+  - logui (1.0)
+
+DEPENDENCIES:
+  - logui (from `../logui`)
+
+EXTERNAL SOURCES:
+  logui:
+    :path: "../logui"
+
+SPEC CHECKSUMS:
+  logui: 917fc8c1d0ad40679c7dfec1529229bf5e9c0ac7
+
+PODFILE CHECKSUM: bdb956b494741a33dad979f7aa43beb93e6c1e26
+
+COCOAPODS: 1.12.1
